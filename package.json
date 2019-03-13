@@ -1,0 +1,23 @@
+{
+  "name": "sqlite3-p",
+  "version": "0.0.1",
+  "description": "A wrapper for the \"sqlite3\" package.",
+  "main": "sqlite3-p.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeAnMo/sqlite3-p.git"
+  },
+  "keywords": [
+    "sqlite",
+    "sqlite3"
+  ],
+  "author": "BAM!",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BeAnMo/sqlite3-p/issues"
+  },
+  "homepage": "https://github.com/BeAnMo/sqlite3-p#readme"
+}
